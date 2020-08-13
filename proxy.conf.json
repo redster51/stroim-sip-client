@@ -1,0 +1,6 @@
+{
+  "/api": {
+    "target": "https://stroim-sip.herokuapp.com",
+    "secure": false
+  }
+}
